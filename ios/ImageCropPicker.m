@@ -60,7 +60,7 @@ RCT_EXPORT_MODULE();
                                 @"useFrontCamera": @NO,
                                 @"compressImageQuality": @1,
                                 @"compressVideoPreset": @"MediumQuality",
-                                @"loadingLabelText": @"Processing assets...",
+                                @"loadingLabelText": @"",
                                 @"mediaType": @"any",
                                 @"showsSelectedCount": @YES
                                 };
